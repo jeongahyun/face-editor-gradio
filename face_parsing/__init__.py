@@ -1,0 +1,1 @@
+from .swap import init_parser, mask_for_inpaint, prompt_to_class_by_rule
